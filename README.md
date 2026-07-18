@@ -33,4 +33,7 @@ integration, debugging, testing, documentation, and release preparation.
 Independent project. Not affiliated with or endorsed by OpenAI. The product
 name “Electron” is unrelated to the Electron.js framework.
 
+See the [Rights and Licensing statement](RIGHTS_AND_LICENSES.md) for the
+project-origin declaration, public-material scope, and third-party notices.
+
 © 2026 Abdusalam Sungurov. All rights reserved.
